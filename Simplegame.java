@@ -23,7 +23,7 @@ public class Simplegame {
 
 
         }
-        while(ch=='y');
+        while(ch=='Y');
     }
     public static void main(String[] args) {
 
